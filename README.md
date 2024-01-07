@@ -20,13 +20,13 @@ This Flutter notes app is a simple yet powerful application that allows users to
 
 2. **Dart SDK:** Ensure that Dart SDK is installed along with Flutter. You can check the Dart version by running `dart --version` in your terminal.
 
-### Clone the Repository
+### Set up the project
 
 ```bash
 
 # Clone the Repository
-git clone 
-cd your-notes-app
+git clone https://github.com/Harsh-Vipin/test1
+
 
 # Setup Hive
 flutter pub get
